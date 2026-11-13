@@ -56,7 +56,7 @@ This is a living collection of reliable places to find datasets, from general pl
 - Submit a pull request to add a source.
 
 ## APIs & Real-Time Data
-- Submit a pull request to add a source.
+- [Datacircle](https://datacircle.dev) — Find the best GTM APIs, with an open API that needs no key at [api.datacircle.dev/v1](https://api.datacircle.dev/v1).
 
 ## Other / Niche
 - [OpenAQ](https://openaq.org/) — Global air quality data.
